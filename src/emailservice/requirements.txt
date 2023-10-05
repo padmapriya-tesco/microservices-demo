@@ -72,7 +72,7 @@ opentelemetry-distro==0.34b0
     # via -r requirements.in
 opentelemetry-exporter-otlp-proto-grpc==1.14.0
     # via -r requirements.in
-opentelemetry-instrumentation==0.34b0
+opentelemetry-instrumentation==0.41b0
     # via
     #   opentelemetry-distro
     #   opentelemetry-instrumentation-grpc
